@@ -1,9 +1,7 @@
 /*
- * Test.cpp
- *
- *  Created on: Nov 29, 2015
- *      Author: bernals
- */
+ * Main.cpp
+ *  Created on: Nov 30, 2016
+ *      Author: vinay nagarajan */
 
 #include <iostream>
 #include <sstream>
